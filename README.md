@@ -1,8 +1,6 @@
-# odin_recipes
-
 This my first project completing the Odin Project Foundations course.
 
-# Brief Intro of the current project
+# Brief Intro of the Current Project
 
 This project is a recipe site that includes 3 recipes that I would like to bake in December.
 I have chosen austrian desserts which are inspired by my wonderful austrian girlfriend.
@@ -15,4 +13,4 @@ I have chosen austrian desserts which are inspired by my wonderful austrian girl
 - absolute and relative links
 - git practice
 
-- All only in HTML so far
+All only in HTML so far
