@@ -1,3 +1,23 @@
 * {
     background-color: aquamarine;
+    text-align: center;
+    font-family: "Comic Sans MS",'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+img {
+    width:300px;
+    height: 300px;
+}
+
+li{
+    text-align: left;
+}
+
+h1 {
+    background-color: blueviolet;
+    color:azure;
+    font-weight: 800;
+    font-size: x-large;
 }
