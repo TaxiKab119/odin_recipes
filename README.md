@@ -1,4 +1,4 @@
-This my first project completing the Odin Project Foundations course.
+This my first project completing the Odin Project Foundations course. It is not intended to look nice.
 
 # Brief Intro of the Current Project
 
