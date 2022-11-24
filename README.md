@@ -1,11 +1,11 @@
-This my first project completing the Odin Project Foundations course. It is not intended to look nice.
+#This my first project completing the Odin Project Foundations course. It is not intended to look nice.
 
-# Brief Intro of the Current Project
+## Brief Intro of the Current Project
 
 This project is a recipe site that includes 3 recipes that I would like to bake in December.
 I have chosen austrian desserts which are inspired by my wonderful austrian girlfriend.
 
-# Skills Involved:
+## Skills Involved:
 
 - Making lists (ul and ol)
 - Headings and paragraphs
